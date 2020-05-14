@@ -1,11 +1,16 @@
 _repo: Politica-americana_62019
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62019-h/images/cover.jpg
 creator:
   author:
     agent_name: Calvo, Alejandro
     gutenberg_agent_id: '51731'
     url: http://www.gutenberg.org/2009/agents/51731
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62019#Politica-americana
 gutenberg_issued: '2020-05-03'
 gutenberg_type: Text
 identifiers:
